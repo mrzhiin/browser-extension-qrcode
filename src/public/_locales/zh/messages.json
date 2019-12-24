@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "标签页二维码"
+  },
+  "extensionDescription": {
+    "message": "生成当前标签页二维码"
+  },
+  "title": {
+    "message": "标签页二维码"
+  }
+}

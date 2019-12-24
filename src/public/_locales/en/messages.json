@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Tab QR code"
+  },
+  "extensionDescription": {
+    "message": "Generate current tab QR code"
+  },
+  "title": {
+    "message": "Tab QR code"
+  }
+}
